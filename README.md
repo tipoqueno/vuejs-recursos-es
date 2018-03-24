@@ -41,6 +41,7 @@
 - [Workshop de VUE.js en ESPAÑOL / Rimorsoft Online](https://www.youtube.com/playlist?list=PLhCiuvlix-rSdvpex9l5zDobZRh82Rl3S) - En este Workshop (taller) haremos nuestra primera aplicación con el Framework de JavaScript vuejs.org. **GRATIS** / Videos
 
 - [Vue.js / Carlos Azaustre](https://www.youtube.com/watch?v=L0F4OPPsm0c&list=PLUdlARNXMVkkn01setC-HaFeJAfblP3Ty) **GRATIS** / Videos
+- [Creando un pokèdex con Vue.js](https://laesporadelhongo.com/curso-vuejs-i/) - Conoceràs mediante un ejemplo pràctico a desarrollar aplicaciones con Vue.js y consumir servicios REST utilizando Vue-resource. **GRATIS**
 
 
 ## Comunidades
