@@ -43,12 +43,12 @@
 
 - [Vue.js / Carlos Azaustre](https://www.youtube.com/watch?v=L0F4OPPsm0c&list=PLUdlARNXMVkkn01setC-HaFeJAfblP3Ty) **GRATIS** / Videos
 
-- [Creando un pokèdex con Vue.js](https://laesporadelhongo.com/curso-vuejs-i/) - Conoceràs mediante un ejemplo pràctico a desarrollar aplicaciones con Vue.js y consumir servicios REST utilizando Vue-resource. **GRATIS**
+- [Creando un pokdex con Vue.js](https://laesporadelhongo.com/curso-vuejs-i/) - Conocerás mediante un ejemplo práctico a desarrollar aplicaciones con Vue.js y consumir servicios REST utilizando Vue-resource. **GRATIS**
 
 
 ## Libros
 
-- [Desarrolla aplicaciones con VueJS / José Dongil](https://www.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details) - Recopilación de posts extraídos del blog El Abismo de Null sobre el desarrollo de aplicaciones hechas en JavaScript con el nuevo framework VueJS.
+- [Desarrolla aplicaciones con VueJS / José Dongil](https://www.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details) - Recopilación de posts extraídos del blog El Abismo de Null sobre el desarrollo de aplicaciones hechas en JavaScript con el nuevo framework VueJS. **GRATIS**
 
 
 ## Comunidades
