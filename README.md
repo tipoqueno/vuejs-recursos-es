@@ -8,6 +8,7 @@
 
 - [Cursos](#cursos)
 - [Series](#series)
+- [Libros](#libros)
 - [Comunidades](#comunidades)
 
 
@@ -41,11 +42,19 @@
 - [Workshop de VUE.js en ESPAÑOL / Rimorsoft Online](https://www.youtube.com/playlist?list=PLhCiuvlix-rSdvpex9l5zDobZRh82Rl3S) - En este Workshop (taller) haremos nuestra primera aplicación con el Framework de JavaScript vuejs.org. **GRATIS** / Videos
 
 - [Vue.js / Carlos Azaustre](https://www.youtube.com/watch?v=L0F4OPPsm0c&list=PLUdlARNXMVkkn01setC-HaFeJAfblP3Ty) **GRATIS** / Videos
+
 - [Creando un pokèdex con Vue.js](https://laesporadelhongo.com/curso-vuejs-i/) - Conoceràs mediante un ejemplo pràctico a desarrollar aplicaciones con Vue.js y consumir servicios REST utilizando Vue-resource. **GRATIS**
+
+
+## Libros
+
+- [Desarrolla aplicaciones con VueJS / José Dongil](https://www.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details) - Recopilación de posts extraídos del blog El Abismo de Null sobre el desarrollo de aplicaciones hechas en JavaScript con el nuevo framework VueJS.
 
 
 ## Comunidades
 
 - [Foro Oficial de Vue.js - Español](https://forum.vuejs.org/c/spanish)
+
 - [VueJS en español / Facebook](https://www.facebook.com/groups/vue.es/)
+
 - [Vue en Español / Slack](https://slack.vue-es.org/)
