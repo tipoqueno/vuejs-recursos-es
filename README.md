@@ -62,6 +62,8 @@
 
 ## Artículos
 
+- [Como hacer DEPLOY de aplicaciones Vue js + Webpack en Heroku](https://codigos-taz.blogspot.com.ar/2017/05/como-hacer-deploy-de-aplicaciones-vue.html) *Codigos Taz*
+
 
 ## Comunidades
 
