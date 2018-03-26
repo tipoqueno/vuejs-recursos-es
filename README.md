@@ -17,6 +17,8 @@
 
 ## Documentación
 
+- [Sitio/Guía oficial traducida al Español](https://es-vuejs.github.io/vuejs.org/)
+
 ## Cursos
 
 - [Aprende Vue2 y Firebase paso a paso](https://wmedia.teachable.com/p/aprende-vue2-y-firebase-paso-a-paso) *Juan Andrés Núñez*. **100% GRATIS** / Videos
