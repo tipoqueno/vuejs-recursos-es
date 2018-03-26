@@ -9,6 +9,7 @@
 - [Cursos](#cursos)
 - [Series](#series)
 - [Libros](#libros)
+- [Workshops](#workshops)
 - [Comunidades](#comunidades)
 
 
@@ -44,6 +45,9 @@
 - [Vue.js](https://www.youtube.com/watch?v=L0F4OPPsm0c&list=PLUdlARNXMVkkn01setC-HaFeJAfblP3Ty) *Carlos Azaustre*. **GRATIS** / Videos
 
 - [Creando un pokedex con Vue.js](https://laesporadelhongo.com/curso-vuejs-i/) *Gabriel Cueto*. **GRATIS** / Artículos
+
+
+## Workshops
 
 
 ## Libros
