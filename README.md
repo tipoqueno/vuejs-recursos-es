@@ -8,8 +8,9 @@
 
 - [Cursos](#cursos)
 - [Series](#series)
-- [Libros](#libros)
 - [Workshops](#workshops)
+- [Libros](#libros)
+- [Artículos](#artículos)
 - [Comunidades](#comunidades)
 
 
@@ -57,6 +58,9 @@
 - [Desarrolla aplicaciones con VueJS](https://www.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details) *José Dongil*. **GRATIS**
 
 - [La Elegancia de Vue 2](https://leanpub.com/vuejs2-spanish/c/vuejs-en-espanol) *Kostas Maniatis, Alex Kyriakidis y Styde.net*. **PAGO**
+
+
+## Artículos
 
 
 ## Comunidades
