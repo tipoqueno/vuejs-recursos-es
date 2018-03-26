@@ -49,6 +49,8 @@
 
 ## Workshops
 
+- [Taller de Iniciación a VueJS](https://www.youtube.com/watch?v=SkR_3BGmqRc) *Rafael Casuso*. **GRATIS** / Video
+
 
 ## Libros
 
