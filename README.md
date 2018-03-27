@@ -10,6 +10,7 @@
 - [Cursos](#cursos)
 - [Series](#series)
 - [Workshops](#workshops)
+- [Videos](#videos)
 - [Libros](#libros)
 - [Artículos](#articulos)
 - [Comunidades](#comunidades)
@@ -56,6 +57,9 @@
 ## Workshops
 
 - [Taller de Iniciación a VueJS](https://www.youtube.com/watch?v=SkR_3BGmqRc) *Rafael Casuso*. **GRATIS** / Video
+
+
+## Videos
 
 
 ## Libros
