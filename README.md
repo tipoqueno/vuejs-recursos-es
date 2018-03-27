@@ -58,6 +58,8 @@
 
 - [Taller de Iniciación a VueJS](https://www.youtube.com/watch?v=SkR_3BGmqRc) *Rafael Casuso*. **GRATIS** / Video
 
+- [Vue.js desde cero, al infinito y más allá](https://www.youtube.com/watch?v=ItFU_otra0o) *Alex Arriaga*. **GRATIS** / Video
+
 
 ## Videos
 
