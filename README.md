@@ -61,6 +61,8 @@
 
 ## Videos
 
+- [Qué es Vue.js y cuáles son sus similitudes con otros frameworks](https://www.youtube.com/watch?v=3825H8NdstI) *Ignacio Anaya*. **GRATIS** / Video
+
 
 ## Libros
 
