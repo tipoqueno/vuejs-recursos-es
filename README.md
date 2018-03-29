@@ -87,3 +87,5 @@
 - [VueJS en español / Facebook](https://www.facebook.com/groups/vue.es/)
 
 - [Vue en Español / Slack](https://slack.vue-es.org/)
+
+- [Vuenos Aires](http://vuenosair.es/) *Meetup en Buenos Aires, Argentina*
