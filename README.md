@@ -88,11 +88,12 @@
 
 - [Vue en Español / Slack](https://slack.vue-es.org/)
 
-- [Vuenos Aires](http://vuenosair.es/) *Meetup / Buenos Aires, Argentina*
+- [Vuenos Aires](http://vuenosair.es/)
 
-- [Vue JS Medellín](https://www.meetup.com/es-ES/Vue-JS-Medellin/) *Meetup / Medellín, Colombia*
+- [Vue JS Medellín](https://www.meetup.com/es-ES/Vue-JS-Medellin/)
  
-- [Bogotá Vue.js](https://www.meetup.com/es-ES/Bogota-Vue-js-Meetup/) *Meetup / Bogotá, Colombia*
+- [Bogotá Vue.js](https://www.meetup.com/es-ES/Bogota-Vue-js-Meetup/)
 
-- [VueJS Madrid](https://www.meetup.com/es-ES/VueJS-Madrid/) *Meetup / Madrid, España*
-
+- [VueJS Madrid](https://www.meetup.com/es-ES/VueJS-Madrid/)
+ 
+- [VueJS Barcelona](https://www.meetup.com/es-ES/VueJS-BCN/)
