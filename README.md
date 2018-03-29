@@ -94,3 +94,5 @@
  
 - [Bogotá Vue.js](https://www.meetup.com/es-ES/Bogota-Vue-js-Meetup/) *Meetup / Bogotá, Colombia*
 
+- [VueJS Madrid](https://www.meetup.com/es-ES/VueJS-Madrid/) *Meetup / Madrid, España*
+
