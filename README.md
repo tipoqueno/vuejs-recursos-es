@@ -88,4 +88,6 @@
 
 - [Vue en Español / Slack](https://slack.vue-es.org/)
 
-- [Vuenos Aires](http://vuenosair.es/) *Meetup en Buenos Aires, Argentina*
+- [Vuenos Aires](http://vuenosair.es/) *Meetup / Buenos Aires, Argentina*
+
+- [Vue JS Medellín](https://www.meetup.com/es-ES/Vue-JS-Medellin/) *Meetup / Medellín, Colombia*
