@@ -91,3 +91,6 @@
 - [Vuenos Aires](http://vuenosair.es/) *Meetup / Buenos Aires, Argentina*
 
 - [Vue JS Medellín](https://www.meetup.com/es-ES/Vue-JS-Medellin/) *Meetup / Medellín, Colombia*
+ 
+- [Bogotá Vue.js](https://www.meetup.com/es-ES/Bogota-Vue-js-Meetup/) *Meetup / Bogotá, Colombia*
+
