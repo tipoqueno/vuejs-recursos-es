@@ -84,6 +84,8 @@
 
 - [Foro Oficial de Vue.js - Español](https://forum.vuejs.org/c/spanish)
 
+- [Vue Land / Discord](https://vue-land.js.org/) 
+
 - [VueJS en español / Facebook](https://www.facebook.com/groups/vue.es/)
 
 - [Vue en Español / Slack](https://slack.vue-es.org/)
