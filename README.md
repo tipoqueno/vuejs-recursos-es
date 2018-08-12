@@ -42,6 +42,8 @@
 
 - [Curso Profesional de VueJS](https://platzi.com/cursos/vuejs-profesional/) *Platzi*. **PAGO** / Videos
 
+- [Curso de Vue JS 2](https://www.youtube.com/playlist?list=PL6lch1KQj3M8LyutkARUGzPs_cXDo5yJW) *Jhonnatan Flores*. **100% GRATIS** / Videos
+
 
 ## Series
 
