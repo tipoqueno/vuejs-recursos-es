@@ -44,6 +44,8 @@
 
 - [Curso de Vue JS 2](https://www.youtube.com/playlist?list=PL6lch1KQj3M8LyutkARUGzPs_cXDo5yJW) *Jhonnatan Flores*. **100% GRATIS** / Videos
 
+- [SPA - Laravel & VUEjs](https://www.youtube.com/playlist?list=PLhCiuvlix-rR1X3apg9CXY5KEX47sI-gc) *Rimorsoft Online*. **100% GRATIS** / Videos
+
 
 ## Series
 
