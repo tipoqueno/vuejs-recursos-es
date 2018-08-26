@@ -14,6 +14,7 @@
 - [Libros](#libros)
 - [Artículos](#articulos)
 - [Comunidades](#comunidades)
+- [Meetups](#meetups)
 
 
 ## Documentación
@@ -93,6 +94,8 @@
 - [VueJS en español / Facebook](https://www.facebook.com/groups/vue.es/)
 
 - [Vue en Español / Slack](https://slack.vue-es.org/)
+
+## Meetups
 
 - [Vuenos Aires](http://vuenosair.es/)
 
