@@ -72,6 +72,8 @@
 
 - [Qué es Vue.js y cuáles son sus similitudes con otros frameworks](https://www.youtube.com/watch?v=3825H8NdstI) *Ignacio Anaya*. **GRATIS** / Video
 
+- [Offline-First Progressive Web Apps en Vue](https://www.youtube.com/watch?v=Zsyydbzb5V4) *Alex Jover*. **GRATIS** / Video
+
 
 ## Libros
 
