@@ -112,3 +112,5 @@
 - [VueJS Madrid](https://www.meetup.com/es-ES/VueJS-Madrid/)
  
 - [VueJS Barcelona](https://www.meetup.com/es-ES/VueJS-BCN/)
+
+- [Montevideo Vue.JS Meetup](https://www.meetup.com/es-ES/Montevideo-Vue-JS-Meetup/)
