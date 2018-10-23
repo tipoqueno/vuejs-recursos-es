@@ -39,7 +39,7 @@
 
 - [Vue.js Desde Cero](https://ed.team/cursos/vue) *EDteam*. **PAGO** / Videos
 
-- [Curso básico de Vue.js](https://platzi.com/cursos/vuejs/) *Platzi*.  **PAGO** / Videos
+- [Curso básico de Vue.js](https://platzi.com/cursos/vuejs/) *Platzi*. **PAGO** / Videos
 
 - [Curso Profesional de VueJS](https://platzi.com/cursos/vuejs-profesional/) *Platzi*. **PAGO** / Videos
 
@@ -66,6 +66,8 @@
 - [Taller de Iniciación a VueJS](https://www.youtube.com/watch?v=SkR_3BGmqRc) *Rafael Casuso*. **GRATIS** / Video
 
 - [Vue.js desde cero, al infinito y más allá](https://www.youtube.com/watch?v=ItFU_otra0o) *Alex Arriaga*. **GRATIS** / Video
+
+- [Taller de Apps Universales con Nuxt y Vue](https://codigofacilito.com/cursos/taller-nuxt-vue) *Código Facilito*. **GRATIS** / Video
 
 
 ## Videos
