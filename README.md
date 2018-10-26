@@ -47,7 +47,9 @@
 
 - [SPA - Laravel & VUEjs](https://www.youtube.com/playlist?list=PLhCiuvlix-rR1X3apg9CXY5KEX47sI-gc) *Rimorsoft Online*. **100% GRATIS** / Videos
 
-- [Curso profesional de Vue y Vuex](https://cursos.carlosazaustre.es/p/vue/?product_id=794440&coupon_code=LANZAMIENTO) *Carlos Azaustre*.  **PAGO** / Videos
+- [Curso profesional de Vue y Vuex](https://cursos.carlosazaustre.es/p/vue/?product_id=794440&coupon_code=LANZAMIENTO) *Carlos Azaustre*. **PAGO** / Videos
+
+- [Curso de Desarrollo con VueJS 2](https://www.youtube.com/playlist?list=PLdWUlk20IaEUKfmCk3duUI2O4nyTlc9-G) *Mejor Codigo*. **GRATIS** / Videos
 
 
 ## Series
