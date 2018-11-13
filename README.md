@@ -51,6 +51,8 @@
 
 - [Curso de Desarrollo con VueJS 2](https://www.youtube.com/playlist?list=PLdWUlk20IaEUKfmCk3duUI2O4nyTlc9-G) *Mejor Codigo*. **GRATIS** / Videos
 
+- [Curso de Vue.js - Tutorial en Español 😍 [Desde Cero]](https://www.youtube.com/playlist?list=PLPl81lqbj-4J-gfAERGDCdOQtVgRhSvIT) *Bluuweb !*. **GRATIS** / Videos
+
 
 ## Series
 
