@@ -98,6 +98,8 @@
 
 - [Introducción a Vue CLI UI](https://styde.net/introduccion-a-vue-cli-ui/) *David Palacios*
 
+- [Estructurando componentes en Vue.js](https://styde.net/estructurando-componentes-en-vue-js/) *David Palacios*
+
 
 ## Comunidades
 
