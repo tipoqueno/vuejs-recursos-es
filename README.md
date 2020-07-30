@@ -53,6 +53,7 @@
 
 - [Curso de Vue.js - Tutorial en Español 😍 [Desde Cero]](https://www.youtube.com/playlist?list=PLPl81lqbj-4J-gfAERGDCdOQtVgRhSvIT) *Bluuweb !*. **GRATIS** / Videos
 
+- [Curso de Vue gratis desde 0](https://codingpotions.com/curso-gratis-vue) *Coding Potions*. **GRATIS** / Artículos
 
 ## Series
 
